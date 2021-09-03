@@ -6,6 +6,9 @@ These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum
 article "Der Praktiker: Widerstandsfähigen Java-Code mit Resilience4j
 schreiben - Stabilitätsmuster in Java".
 
+You can read it online [here](https://www.innoq.com/de/articles/2021/09/java-circuit-breaker-resilience4j/)
+or download as PDF [here](https://www.sigs.de/publications/download/Artikel/vitz_JS_02_21_cdie.pdf).
+
 
 ## License
 
